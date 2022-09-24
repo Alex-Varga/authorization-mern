@@ -1,0 +1,5 @@
+{
+  "port": 5001,
+  "jwtSecret": "varga mern",
+  "mongoUri": "mongodb+srv://alex:1234qwer@cluster0.zefgi.mongodb.net/?retryWrites=true&w=majority"
+}
